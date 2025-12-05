@@ -1,0 +1,30 @@
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Documentation
+*.md
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+
+# Build artifacts
+management-server
+*.exe
+
+# Test files
+*_test.go
+testdata
+
+# Environment files
+.env
+.env.local
+
